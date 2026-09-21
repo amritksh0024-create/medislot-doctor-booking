@@ -1,8 +1,0 @@
-{
-  "name": "Remix Remix MediSlot",
-  "description": "A complete, functional and responsive Doctor Appointment Booking Web App powered by React, TypeScript, and Supabase.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
